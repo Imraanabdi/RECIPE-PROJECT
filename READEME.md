@@ -36,3 +36,9 @@ Contributions are welcome! Feel free to fork this repository, make changes, and 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
