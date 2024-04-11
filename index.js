@@ -31,17 +31,17 @@ function init() {
             return;
         }
 
-        // Update heading and area
+        //  heading and area
         headingElement.textContent = meal.strMeal;
         areaElement.textContent = meal.strArea;
 
-        // Update ingredients list
+        //  ingredients list
         updateIngredientsList(meal);
 
-        // Update recipe image
+        //  recipe image
         updateImage(meal);
 
-        // Update recipe video
+        // recipe video
         updateVideo(meal);
     }
 
