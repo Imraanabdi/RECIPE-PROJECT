@@ -31,7 +31,7 @@ function init() {
             return;
         }
 
-        //  heading and area
+        // Update heading and area
         headingElement.textContent = meal.strMeal;
         areaElement.textContent = meal.strArea;
 
@@ -141,4 +141,5 @@ function init() {
     // Fetch a random meal when the page loads
     fetchRandomMeal();
 }
+
 
