@@ -2,6 +2,10 @@
 
 This JavaScript code fetches a random meal from [TheMealDB API](https://www.themealdb.com/api.php) and displays its details including the name, origin, ingredients, an image, and a link to a related YouTube video.
 
+
+## Live Demo
+[Live Demo Link](https://recipe-project-lake.vercel.app/)
+
 ## How it Works
 
 1. When the DOM content is loaded, the `init()` function is called, setting up event listeners and fetching a random meal.
